@@ -5,6 +5,6 @@ Made using [Vue](https://v3.vuejs.org), [Vite](https://vitejs.dev/) and [Tailwin
 ## Setup
 
 To run on localhost run using
-`npm install
-npm run dev`
+`npm install`
+`npm run dev`
 and go to [http://localhost:5173](http://localhost:5173)
